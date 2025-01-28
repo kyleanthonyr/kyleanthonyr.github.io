@@ -21,7 +21,7 @@ repository: "kyleanthonyr/kyleanthonyr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
     # Biographic information
-    avatar: "headshot-min.png"
+    avatar: "headshot.jpeg"
     name: "Kyle"
     pronouns: "he/him"
     bio: "Data Science and Machine Learning enthusiast. Lifelong learner."
