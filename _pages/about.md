@@ -15,7 +15,7 @@ I excel in environments that require bridging gaps between disciplines. By drawi
 
 My two fun facts are: I'm originally from a small country in Central America called Belize, and I've seen the movie _American Psycho_, but I just don't get the hype.
 
-![image](/images/sea.jpg)
+![image](/images/sea.jpg){: .align-center width="300px"}
 
 # Education & Certifications
 
