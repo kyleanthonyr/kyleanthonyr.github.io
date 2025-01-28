@@ -11,10 +11,10 @@ locale: "en-US"
 title: "Kyle Rodriguez"
 title_separator: "-"
 name: &name "Kyle Rodriguez"
-description: &description "personal description"
-url: https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description: &description "Data Science and Machine Learning enthusiast."
+url: https://kyleanthonyr.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "academicpages/academicpages.github.io"
+repository: "kyleanthonyr/kyleanthonyr.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
     avatar: "headshot.jpeg"
     name: "Kyle"
     pronouns: "he/him"
-    bio: "Short biography for the left-hand sidebar"
+    bio: "Data Science and Machine Learning enthusiast. Lifelong learner."
     location: "Houston, TX"
     employer: "NOV"
     uri: # URL
@@ -49,7 +49,7 @@ author:
     stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
     # Social media
-    bluesky: "bsky.app" # Replace this with you Bluesky username
+    bluesky: # "bsky.app" # Replace this with you Bluesky username
     facebook: # Username
     flickr: # Username
     foursquare: # Username
