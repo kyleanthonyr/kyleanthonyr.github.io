@@ -13,18 +13,18 @@ My professional journey includes impactful internships at **NOV** and **Atlas Co
 
 I excel in environments that require bridging gaps between disciplines. By drawing on cross-functional knowledge, I help organizations innovate, streamline operations, and deliver meaningful solutions that make an impact.
 
+My two fun facts are: I'm originally from a small country in Central America called Belize. See attached [image](/files/sea.jpg){: align-right width="300px"}, and I've seen the movie _American Psycho_, but I just don't get the hype.
+
 # Education & Certifications
 
 ### University of Houston
 
--   **Bachelor of Science, Computer Science** | GPA: 4.0, _May 2025_
+-   **Bachelor of Science, Computer Science**, _May 2025_
 -   **Bachelor of Science, Biochemistry**, _August 2023_
 
 ### Springboard
 
 -   **Online Data Science Certificate**, _April 2023 - Dec. 2023_  
     A 9-month intensive program in data science and machine learning with 1:1 industry mentorship and hands-on projects based on real-world problems.
-
-####
 
 Visit the Department of Computer Science at UH [here](https://www.uh.edu/nsm/computer-science/).
