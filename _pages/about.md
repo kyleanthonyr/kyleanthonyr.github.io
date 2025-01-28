@@ -13,7 +13,9 @@ My professional journey includes impactful internships at **NOV** and **Atlas Co
 
 I excel in environments that require bridging gaps between disciplines. By drawing on cross-functional knowledge, I help organizations innovate, streamline operations, and deliver meaningful solutions that make an impact.
 
-My two fun facts are: I'm originally from a small country in Central America called Belize. See attached ![image](/images/sea.jpg){: .align-right width="300px"}, and I've seen the movie _American Psycho_, but I just don't get the hype.
+My two fun facts are: I'm originally from a small country in Central America called Belize, and I've seen the movie _American Psycho_, but I just don't get the hype.
+
+![image](/images/sea.jpg)
 
 # Education & Certifications
 
