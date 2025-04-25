@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Form Approval System"
+excerpt: "A full stack system for a univeristy that allows students to fill out and submit certain forms<br/><img src='/images/home_page.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A Form Approval Management system for a univeristy that allows students to fill out and submit certain forms. Forms are approved by relevant admin with the appropriate approval permissions. Form approval can also be delegated to other admins in the same permission scope.
+
+<iframe width="560" height="315" 
+    src="https://youtu.be/Jryld7oRP38" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
