@@ -6,6 +6,8 @@ collection: portfolio
 
 A Form Approval Management system for a univeristy that allows students to fill out and submit certain forms. Forms are approved by relevant admin with the appropriate approval permissions. Form approval can also be delegated to other admins in the same permission scope.
 
+GitHub repo: https://github.com/David-Gaspar-H/cosc4353-flin-flon
+
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/Jryld7oRP38" 
     title="YouTube video player" 
